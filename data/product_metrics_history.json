@@ -1,0 +1,36 @@
+{
+  "B08FSK7ZVC": {
+    "snapshots": [
+      {
+        "timestamp": "2026-07-03T19:38:46.788023",
+        "date": "2026-07-03",
+        "bsr_rank": 5586,
+        "price": 53.96,
+        "avg_rating": 4.5,
+        "review_count": 31615,
+        "estimated_daily_sales": 2,
+        "estimated_monthly_sales": 60,
+        "review_rate": 0.1
+      }
+    ],
+    "first_seen": "2026-07-03T19:38:09.147842",
+    "last_updated": "2026-07-03T19:38:46.788023"
+  },
+  "B0GWLNRQ9H": {
+    "snapshots": [
+      {
+        "timestamp": "2026-07-03T19:52:09.445588",
+        "date": "2026-07-03",
+        "bsr_rank": 245,
+        "price": 122.1,
+        "avg_rating": 4.1,
+        "review_count": 2636,
+        "estimated_daily_sales": 95,
+        "estimated_monthly_sales": 2850,
+        "review_rate": 0.1
+      }
+    ],
+    "first_seen": "2026-07-03T19:51:34.866260",
+    "last_updated": "2026-07-03T19:52:09.445588"
+  }
+}

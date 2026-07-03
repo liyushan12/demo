@@ -1,0 +1,22 @@
+# 跨境电商选品分析助手 - 依赖清单
+
+# 通义千问 LLM API
+dashscope>=1.10.0
+
+# 网页爬取
+cloudscraper>=1.2.71
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# 数据处理 (Python 标准库，无需安装)
+# json - JSON 解析
+# re - 正则表达式
+# os - 操作系统接口
+# time - 时间处理
+# random - 随机数生成
+# logging - 日志记录
+# abc - 抽象基类
+# typing - 类型注解
+# urllib.parse - URL 解析
+# datetime - 日期时间处理

@@ -1,0 +1,446 @@
+{
+  "categories": [
+    {
+      "id": "wireless_earbuds",
+      "name": "无线蓝牙耳机",
+      "name_en": "Wireless Bluetooth Earbuds",
+      "platform": "Amazon",
+      "avg_rating": 3.8,
+      "review_count": 25,
+      "price_range": "$15-45",
+      "reviews": [
+        {
+          "id": "WE001",
+          "rating": 5,
+          "title": "Great sound quality for the price!",
+          "content": "I was skeptical at first but these earbuds deliver amazing sound. Bass is deep and clear. Battery lasts about 5 hours which is decent. Very comfortable fit for long listening sessions.",
+          "date": "2024-11-15",
+          "verified": true,
+          "helpful_votes": 42
+        },
+        {
+          "id": "WE002",
+          "rating": 1,
+          "title": "Stopped working after 2 weeks",
+          "content": "The left earbud stopped charging after just 2 weeks. Contacted seller but no response. Very disappointed. Waste of money.",
+          "date": "2024-11-20",
+          "verified": true,
+          "helpful_votes": 38
+        },
+        {
+          "id": "WE003",
+          "rating": 4,
+          "title": "Good but Bluetooth range is limited",
+          "content": "Sound quality is impressive for budget earbuds. Only complaint is the Bluetooth range - loses connection if I walk more than 10 feet from my phone. Otherwise great value.",
+          "date": "2024-12-01",
+          "verified": true,
+          "helpful_votes": 25
+        },
+        {
+          "id": "WE004",
+          "rating": 2,
+          "title": "Uncomfortable after 30 minutes",
+          "content": "The ear tips are too hard. After wearing for 30 minutes my ears start to hurt. Sound is okay but comfort is a deal breaker for me. Wish they included memory foam tips.",
+          "date": "2024-12-05",
+          "verified": true,
+          "helpful_votes": 31
+        },
+        {
+          "id": "WE005",
+          "rating": 5,
+          "title": "Perfect for workouts!",
+          "content": "These stay in my ears during running and gym sessions. Sweat resistant and the charging case is compact. Microphone quality is also good for calls. Highly recommend for fitness enthusiasts.",
+          "date": "2024-12-10",
+          "verified": true,
+          "helpful_votes": 19
+        },
+        {
+          "id": "WE006",
+          "rating": 3,
+          "title": "Decent but nothing special",
+          "content": "Average sound, average battery life. The case feels cheap and plasticky. For the price it's okay but don't expect premium quality. Touch controls are inconsistent.",
+          "date": "2024-12-15",
+          "verified": true,
+          "helpful_votes": 15
+        },
+        {
+          "id": "WE007",
+          "rating": 1,
+          "title": "Terrible microphone quality",
+          "content": "Everyone says I sound like I'm in a tunnel when I use these for phone calls. The microphone is unusable. Fine for music but useless for work calls.",
+          "date": "2024-12-20",
+          "verified": true,
+          "helpful_votes": 44
+        },
+        {
+          "id": "WE008",
+          "rating": 4,
+          "title": "Great noise cancellation",
+          "content": "The passive noise isolation is surprisingly good. I use these on the subway and they block out most ambient noise. Sound is rich and balanced. Battery could be better though.",
+          "date": "2025-01-02",
+          "verified": true,
+          "helpful_votes": 22
+        },
+        {
+          "id": "WE009",
+          "rating": 2,
+          "title": "Charging case broke quickly",
+          "content": "The hinge on the charging case broke after a month. Now I have to hold it shut with a rubber band. Earbuds work but the case quality is terrible.",
+          "date": "2025-01-08",
+          "verified": true,
+          "helpful_votes": 28
+        },
+        {
+          "id": "WE010",
+          "rating": 5,
+          "title": "Best budget earbuds I've tried",
+          "content": "I've tried 5 different budget earbuds and these are the best. Clear vocals, decent bass, comfortable for 2+ hours. The app lets you customize EQ settings too.",
+          "date": "2025-01-15",
+          "verified": true,
+          "helpful_votes": 35
+        }
+      ]
+    },
+    {
+      "id": "portable_blender",
+      "name": "便携式榨汁机",
+      "name_en": "Portable Blender",
+      "platform": "Amazon",
+      "avg_rating": 3.5,
+      "review_count": 20,
+      "price_range": "$20-40",
+      "reviews": [
+        {
+          "id": "PB001",
+          "rating": 5,
+          "title": "Perfect for smoothies on the go!",
+          "content": "I make my protein shakes every morning with this. Blends frozen fruit easily and the USB charging is super convenient. Fits in my gym bag perfectly.",
+          "date": "2024-10-20",
+          "verified": true,
+          "helpful_votes": 56
+        },
+        {
+          "id": "PB002",
+          "rating": 1,
+          "title": "Leaked everywhere",
+          "content": "The seal is terrible. First time I used it, smoothie leaked all over my bag. Returned immediately. The lid doesn't lock properly.",
+          "date": "2024-10-25",
+          "verified": true,
+          "helpful_votes": 67
+        },
+        {
+          "id": "PB003",
+          "rating": 3,
+          "title": "Weak motor struggles with ice",
+          "content": "Works great with soft fruits but completely fails with ice or frozen berries. Motor stalls and makes grinding noises. Good for basic smoothies only.",
+          "date": "2024-11-05",
+          "verified": true,
+          "helpful_votes": 43
+        },
+        {
+          "id": "PB004",
+          "rating": 4,
+          "title": "Easy to clean",
+          "content": "Love that I can just add water and soap, blend for 10 seconds and it's clean. The 380ml capacity is enough for one serving. Wish it was a bit bigger.",
+          "date": "2024-11-12",
+          "verified": true,
+          "helpful_votes": 29
+        },
+        {
+          "id": "PB005",
+          "rating": 2,
+          "title": "Battery dies fast",
+          "content": "Only makes 3-4 smoothies before needing a charge. Takes 3 hours to fully charge. Not practical for travel. The battery life is a major letdown.",
+          "date": "2024-11-18",
+          "verified": true,
+          "helpful_votes": 38
+        },
+        {
+          "id": "PB006",
+          "rating": 5,
+          "title": "Great for baby food!",
+          "content": "Bought this to make baby food on the go. It purees vegetables perfectly and the size is ideal for small portions. Very happy with this purchase.",
+          "date": "2024-11-25",
+          "verified": true,
+          "helpful_votes": 21
+        },
+        {
+          "id": "PB007",
+          "rating": 1,
+          "title": "Blade broke after 2 weeks",
+          "content": "The blade assembly cracked while blending strawberries. Cheap plastic construction. Dangerous product - could have hurt someone.",
+          "date": "2024-12-01",
+          "verified": true,
+          "helpful_votes": 52
+        },
+        {
+          "id": "PB008",
+          "rating": 4,
+          "title": "Compact and stylish design",
+          "content": "Looks great on my desk and doesn't take up much space. The BPA-free material gives me peace of mind. Blending power is adequate for daily use.",
+          "date": "2024-12-08",
+          "verified": true,
+          "helpful_votes": 16
+        }
+      ]
+    },
+    {
+      "id": "led_strip_lights",
+      "name": "LED 灯带",
+      "name_en": "LED Strip Lights",
+      "platform": "Amazon",
+      "avg_rating": 4.2,
+      "review_count": 20,
+      "price_range": "$10-25",
+      "reviews": [
+        {
+          "id": "LS001",
+          "rating": 5,
+          "title": "Amazing ambiance for my room!",
+          "content": "These lights transformed my bedroom. The color options are endless and the app control is super easy to use. The music sync feature is a hit at parties!",
+          "date": "2024-09-15",
+          "verified": true,
+          "helpful_votes": 89
+        },
+        {
+          "id": "LS002",
+          "rating": 4,
+          "title": "Good quality but adhesive is weak",
+          "content": "The lights themselves are great - bright and vibrant colors. However, the adhesive backing started peeling off after a week. Had to use extra mounting clips.",
+          "date": "2024-09-22",
+          "verified": true,
+          "helpful_votes": 72
+        },
+        {
+          "id": "LS003",
+          "rating": 2,
+          "title": "Colors don't match the app",
+          "content": "When I select blue on the app, it shows purple. Green looks yellowish. The color accuracy is terrible. Disappointing because the build quality seems fine.",
+          "date": "2024-10-01",
+          "verified": true,
+          "helpful_votes": 45
+        },
+        {
+          "id": "LS004",
+          "rating": 5,
+          "title": "Perfect for TV backlighting",
+          "content": "Installed these behind my TV for bias lighting. Reduces eye strain during night viewing and looks incredible. The remote control is responsive and has many modes.",
+          "date": "2024-10-10",
+          "verified": true,
+          "helpful_votes": 53
+        },
+        {
+          "id": "LS005",
+          "rating": 3,
+          "title": "WiFi connection issues",
+          "content": "The lights work fine with the remote but the WiFi app keeps disconnecting. Had to reset multiple times. Frustrating experience with smart features.",
+          "date": "2024-10-18",
+          "verified": true,
+          "helpful_votes": 38
+        },
+        {
+          "id": "LS006",
+          "rating": 5,
+          "title": "Easy installation",
+          "content": "Cut to size, peel and stick, plug in. Done in 10 minutes. The cut marks make it easy to customize length. Very beginner friendly.",
+          "date": "2024-10-25",
+          "verified": true,
+          "helpful_votes": 31
+        },
+        {
+          "id": "LS007",
+          "rating": 1,
+          "title": "Fire hazard - overheated",
+          "content": "After running for 4 hours, the power adapter was extremely hot to touch. I smelled something burning. Unplugged immediately. This is a safety concern.",
+          "date": "2024-11-02",
+          "verified": true,
+          "helpful_votes": 95
+        },
+        {
+          "id": "LS008",
+          "rating": 4,
+          "title": "Great value for 50ft",
+          "content": "50 feet of LED lights for under $20 is incredible value. Bright enough to light up my entire gaming setup. Timer function is a nice addition.",
+          "date": "2024-11-10",
+          "verified": true,
+          "helpful_votes": 27
+        }
+      ]
+    },
+    {
+      "id": "yoga_mat",
+      "name": "瑜伽垫",
+      "name_en": "Yoga Mat",
+      "platform": "Amazon",
+      "avg_rating": 4.0,
+      "review_count": 20,
+      "price_range": "$18-35",
+      "reviews": [
+        {
+          "id": "YM001",
+          "rating": 5,
+          "title": "Perfect thickness and grip",
+          "content": "The 6mm thickness provides excellent cushioning for my knees. The non-slip surface actually works - no sliding during hot yoga. Love the alignment marks too.",
+          "date": "2024-08-20",
+          "verified": true,
+          "helpful_votes": 64
+        },
+        {
+          "id": "YM002",
+          "rating": 2,
+          "title": "Strong chemical smell",
+          "content": "The mat has a terrible chemical odor that hasn't gone away after 2 weeks of airing out. Gives me a headache during practice. Unacceptable quality control.",
+          "date": "2024-08-28",
+          "verified": true,
+          "helpful_votes": 78
+        },
+        {
+          "id": "YM003",
+          "rating": 4,
+          "title": "Durable and easy to clean",
+          "content": "I've been using this 5x a week for 3 months and it still looks new. Just wipe with a damp cloth and it's clean. The carrying strap is a nice bonus.",
+          "date": "2024-09-05",
+          "verified": true,
+          "helpful_votes": 35
+        },
+        {
+          "id": "YM004",
+          "rating": 3,
+          "title": "Too heavy for travel",
+          "content": "At 2.5 lbs this is too heavy to carry to the studio. Fine for home use but I need something lighter for commuting. The quality is good though.",
+          "date": "2024-09-12",
+          "verified": true,
+          "helpful_votes": 22
+        },
+        {
+          "id": "YM005",
+          "rating": 5,
+          "title": "Beautiful design",
+          "content": "The mandala pattern is gorgeous and inspiring for my practice. Colors are vibrant and haven't faded after multiple cleanings. Gets compliments every class.",
+          "date": "2024-09-20",
+          "verified": true,
+          "helpful_votes": 28
+        },
+        {
+          "id": "YM006",
+          "rating": 1,
+          "title": "Surface peeling after 1 month",
+          "content": "The top layer started peeling and flaking. Now there are little pieces of material everywhere after practice. Clearly poor quality materials.",
+          "date": "2024-09-28",
+          "verified": true,
+          "helpful_votes": 51
+        },
+        {
+          "id": "YM007",
+          "rating": 4,
+          "title": "Good for beginners",
+          "content": "The alignment lines help me position my hands and feet correctly. Great for someone new to yoga. Thickness is comfortable for floor poses.",
+          "date": "2024-10-05",
+          "verified": true,
+          "helpful_votes": 19
+        },
+        {
+          "id": "YM008",
+          "rating": 3,
+          "title": "Slippery when sweaty",
+          "content": "The grip works fine when dry but becomes slippery during intense sessions. Need to use a towel on top. Should be marketed as 'moisture-resistant' not 'non-slip'.",
+          "date": "2024-10-12",
+          "verified": true,
+          "helpful_votes": 42
+        }
+      ]
+    },
+    {
+      "id": "phone_stand",
+      "name": "手机支架",
+      "name_en": "Phone Stand",
+      "platform": "Amazon",
+      "avg_rating": 4.3,
+      "review_count": 15,
+      "price_range": "$8-20",
+      "reviews": [
+        {
+          "id": "PS001",
+          "rating": 5,
+          "title": "Sturdy and adjustable",
+          "content": "Holds my iPhone 15 Pro Max with case perfectly. Multiple angle adjustments and the weighted base prevents tipping. Best stand I've owned.",
+          "date": "2024-11-01",
+          "verified": true,
+          "helpful_votes": 47
+        },
+        {
+          "id": "PS002",
+          "rating": 4,
+          "title": "Clean minimalist design",
+          "content": "Looks great on my desk. The aluminum finish matches my MacBook. Only wish it had a bit more height adjustment range.",
+          "date": "2024-11-08",
+          "verified": true,
+          "helpful_votes": 33
+        },
+        {
+          "id": "PS003",
+          "rating": 2,
+          "title": "Not compatible with thick cases",
+          "content": "My phone with OtterBox case doesn't fit in the cradle. Had to remove the case every time. Very inconvenient. Should specify max case thickness.",
+          "date": "2024-11-15",
+          "verified": true,
+          "helpful_votes": 39
+        },
+        {
+          "id": "PS004",
+          "rating": 5,
+          "title": "Perfect for video calls",
+          "content": "Use this every day for Zoom meetings. Keeps my phone at eye level so I don't have to look down. The charging port cutout is well positioned.",
+          "date": "2024-11-22",
+          "verified": true,
+          "helpful_votes": 25
+        },
+        {
+          "id": "PS005",
+          "rating": 3,
+          "title": "Wobbles with tablet",
+          "content": "Works fine with phone but wobbles with my iPad Mini. The base isn't heavy enough for larger devices. Should be marketed as phone-only.",
+          "date": "2024-11-29",
+          "verified": true,
+          "helpful_votes": 18
+        },
+        {
+          "id": "PS006",
+          "rating": 5,
+          "title": "Foldable and portable",
+          "content": "Folds flat and fits in my laptop bag. Use it at coffee shops, office, everywhere. The rubber pads protect my phone from scratches. Highly recommend.",
+          "date": "2024-12-05",
+          "verified": true,
+          "helpful_votes": 31
+        },
+        {
+          "id": "PS007",
+          "rating": 4,
+          "title": "Good but could be cheaper",
+          "content": "Quality is solid but $15 feels a bit much for a simple stand. There are similar ones for $8. That said, the build quality justifies the premium somewhat.",
+          "date": "2024-12-12",
+          "verified": true,
+          "helpful_votes": 14
+        },
+        {
+          "id": "PS008",
+          "rating": 5,
+          "title": "Great for FaceTime with family",
+          "content": "I use this stand every evening for FaceTime calls with my parents. The angle is perfect and the base is rock solid. My old stand would tip over every time I tapped the screen. This one stays put.",
+          "date": "2024-12-18",
+          "verified": true,
+          "helpful_votes": 22
+        },
+        {
+          "id": "PS009",
+          "rating": 3,
+          "title": "Scratches easily",
+          "content": "The aluminum finish looks nice out of the box but scratches very easily. After a week of daily use there are visible marks on the surface. A matte finish would be more practical.",
+          "date": "2025-01-05",
+          "verified": true,
+          "helpful_votes": 17
+        }
+      ]
+    }
+  ]
+}
