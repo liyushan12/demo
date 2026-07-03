@@ -309,19 +309,6 @@ MetricsStore 存储快照 (JSON)
 
 ---
 
-## 与原版的对比
-
-| 维度     | 原版 (product-analyzer)  | Agent 版 (product-analyzer-agent) |
-| -------- | ------------------------ | --------------------------------- |
-| 架构     | 单体类 ProductAnalyzer   | 多 Agent 协作                     |
-| 职责     | 分析器承担所有逻辑       | 每个 Agent 职责单一               |
-| 扩展性   | 添加新数据源需修改分析器 | 新增 SourceAgent 即可             |
-| 可测试性 | 需要 mock 整个分析器     | 可单独测试每个 Agent              |
-| 错误隔离 | 一个模块失败影响整体     | Agent 独立，错误不会扩散          |
-| 复用性   | 逻辑耦合在一个类中       | Agent 可独立复用                  |
-
----
-
 ## 许可证
 
 MIT License
